@@ -142,13 +142,9 @@ com o cabeçalho `Content-Type: application/json`.
 ### 1. Clone o repositório
 
 ``` bash
-git clone https://github.com/SEU-USUARIO/taskflow.git
+git clone https://github.com/fernando-aoliveira/taskflow.git
 cd taskflow
 ```
-
-> Substitua `SEU-USUARIO` pelo seu usuário do GitHub e ajuste o endereço
-> caso o nome do repositório seja diferente.
-
 ### 2. Execute a aplicação
 
 Se o Maven estiver instalado:
